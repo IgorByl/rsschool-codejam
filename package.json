@@ -1,0 +1,17 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "make.js",
+  "scripts": {
+    "lint": "eslint sumOfOther.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Bulaty <i.bylatu@mail.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
